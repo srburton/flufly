@@ -1,0 +1,5 @@
+{
+  "db": "3x@mpl3",
+  "webapi": "https://api.example.app",
+  "cdn": "https://cdn.example.app"
+}
